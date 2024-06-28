@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "ZoomMeetingSDKSample",
+    "slug": "ZoomMeetingSDKSample",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.madgical.zoommeedingsdksample"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.madgical.zoommeedingsdksample"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
